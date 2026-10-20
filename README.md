@@ -26,7 +26,7 @@ iOS 用户可以直接在 X 里面充值三合一会员，用人民币付款，�
 
 近期刚搞定，踩完机场、ISP 等各种坑终于全面拥抱 VPS：<https://lisahost.com/aff.php?aff=14899>。有需要找我 Telegram 咨询，Telegram 里搜索 `@AIPMAndy`，这种就别微信找我哈，要命……
 
-如果只是需要 ISP、静态家庭 IP，也可以看：<https://iproyal.cn/?r=1616594>。
+如果只是需要 ISP、静态家庭 IP，也可以看：<https://iproyal.com/?r=1616594>。
 
 ### 关于 GPT、Codex
 
